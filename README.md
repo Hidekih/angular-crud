@@ -1,6 +1,6 @@
 # Angular-CRUD
 
-Nessa aplicação é possível: cadastrar, alterar, listar e deletar produtos do backend gerado pelo json-server.
+Nessa aplicação é possível: cadastrar, alterar, listar e deletar produtos do backend gerado pelo `json-server`.
 
 ## Get started
 
@@ -13,7 +13,7 @@ yarn add
 
 ## Development server
 
-Para testar a aplicação em ambiente de desenvolvimento primeiro você deverá iniciar o servidor do json-server, para isso execute o comando:
+Para testar a aplicação em ambiente de desenvolvimento primeiro você deverá iniciar o servidor do `json-server`, para isso execute o comando:
 ```bash
 npm server 
 # or 
