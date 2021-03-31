@@ -1,0 +1,25 @@
+.footer {
+  position: absolute;
+  bottom: 0;
+  display: flex;
+  align-items: center;
+  justify-content: flex-end;
+  margin-top: auto;
+  background-color: #28262E;
+  padding: 0;
+}
+
+.footer > span {
+  margin: 0 14px;
+  font-family: Roboto;
+  font-size: 1.1rem;
+  font-weight: 400;
+}
+
+.footer > span i{
+  color: rgb(129, 0, 161);
+}
+
+.footer span span {
+  border-bottom: 1px solid white;
+}

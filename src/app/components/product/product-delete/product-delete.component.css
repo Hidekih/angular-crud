@@ -1,0 +1,32 @@
+.cardContainer {
+  max-width: 520px; 
+  margin: 0 auto;
+  padding: 28px;
+  margin-top: 28px;
+  background: #3E3B47;
+}
+
+form {
+  margin-top: 28px;
+  display: flex;
+  flex-direction: column;
+}
+
+.buttonsContainer {
+  display: flex;
+  justify-content: space-between;
+  margin-top: 12px;
+}
+
+.buttonsContainer button{
+  width: 180px;
+  transition: opacity 0.4s;
+}
+
+.buttonsContainer button + button {
+  background: #28262E;
+}
+
+.buttonsContainer button:hover {
+  opacity: 0.6;
+}

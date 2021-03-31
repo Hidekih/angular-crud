@@ -1,0 +1,37 @@
+.header {
+  display: flex;
+  align-items: center;
+  background-color: #28262E;
+  padding: 0;
+}
+
+.header a {
+  display: flex;
+  align-items: center;
+  text-decoration: none;
+
+  color: #f9f9f9;
+  transition: opacity 0.4s;
+}
+
+.header a:hover {
+  opacity: 0.8;
+}
+
+.logo-container {
+  display: flex;
+  justify-content: center;
+  width: 224px;
+}
+
+.logo-container img {
+  height: 30px;
+}
+
+.title-group {
+  margin-left: 8px;
+}
+
+.title-group i{
+  margin-right: 14px;
+}

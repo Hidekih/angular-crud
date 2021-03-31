@@ -1,0 +1,22 @@
+{
+  "products": [
+    {
+      "id": "1",
+      "name": "Caneta BIC Preta",
+      "price": 1.34,
+      "quantity": 9
+    },
+    {
+      "id": "2",
+      "name": "Caderno 200 páginas",
+      "price": 12.89,
+      "quantity": 6
+    },
+    {
+      "id": "3",
+      "name": "Lapizera 7mm",
+      "price": 5.89,
+      "quantity": 10
+    }
+  ]
+}

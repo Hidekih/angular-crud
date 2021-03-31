@@ -1,0 +1,18 @@
+/* .container {
+  display: flex;
+  flex-direction: column;
+} */
+
+.sidenav {
+  background: #3E3B47;
+  width: 224px;
+}
+
+.sidenav i {
+  padding-right: 14px;
+}  
+
+.content {
+  padding: 16px;
+  background: #312E38;
+}

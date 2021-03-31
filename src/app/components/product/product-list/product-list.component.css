@@ -1,0 +1,22 @@
+.container {
+  margin-top: 24px;
+  width: 100%;
+  max-width: 920px;
+  border-radius: 4px;
+  overflow: hidden;
+  margin: 24px auto 0;
+}
+
+table {
+  background: #3E3B47;
+  width: 100%;
+}
+
+.edit > i {
+  color: #7b1fa2;
+}
+
+.delete > i {
+  margin-left: 16px;
+  color: #f44336;
+}

@@ -1,0 +1,20 @@
+.container {
+  margin-top: 24px;
+  width: 100%;
+  max-width: 920px;
+  border-radius: 4px;
+  overflow: hidden;
+  margin: 24px auto 0;
+}
+
+table {
+  background: #3E3B47;
+}
+
+.paginator {
+  background: #3E3B47;
+}
+
+.full-width-table {
+  width: 100%;
+}
