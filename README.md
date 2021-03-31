@@ -27,4 +27,4 @@ npm start
 yarn start
 ``` 
 
-Navegue para `http://localhost:4200/` e teste o projeto a vontade!
+Navegue para [http://localhost:4200](http://localhost:4200) e teste o projeto a vontade!
