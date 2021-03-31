@@ -4,8 +4,27 @@ Nessa aplicação é possível: cadastrar, alterar, listar e deletar produtos do
 
 ## Get started
 
-Para testar o projeto primeiro clone o repositório e em seguida execute o comando `npm i ##ou yarn` para instalar todas as dependências do projeto.
+Para testar o projeto primeiro clone o repositório em seguida para instalar todas as dependências do projeto execute o comando:
+```bash
+npm install
+# or
+yarn add
+```
 
 ## Development server
 
-Para testar a aplicação em ambiente de desenvolvimento execute `npm server ##ou yarn server` para iniciar o servidor do json-server e `npm start ##ou yarn start` para iniciar o servidor de desenvolvimento. Navegue para `http://localhost:4200/` e teste o projeto a vontade.
+Para testar a aplicação em ambiente de desenvolvimento primeiro você deverá iniciar o servidor do json-server, para isso execute o comando:
+```bash
+npm server 
+# or 
+yarn server
+```
+
+Agora você pode iniciar o servidor de desenvolvimento com o comando: 
+```bash
+npm start 
+# or 
+yarn start
+``` 
+
+Navegue para `http://localhost:4200/` e teste o projeto a vontade!
